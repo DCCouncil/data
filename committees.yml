@@ -1,0 +1,62 @@
+committees:
+
+  - name: Committee of the Whole
+    rule: 231
+    chair: Phil Mendelson
+
+  - name: "Committee on Business, Consumer, and Regulatory Affairs"
+    rule: 232
+    chair: Vincent Orange
+    members: 
+    - Charles Allen
+    - Brianne Nadeau
+    - Elissa Silverman
+
+  - name: Committee on Education
+    rule: 233
+    chair: David Grosso
+    members: 
+    - Yvette Alexander 
+    - Charles Allen 
+    - Anita Bonds
+
+  - name: Committee on Finance and Revenue
+    rule: 234
+    chair: Jack Evans
+    members: 
+    - David Grosso
+    - Kenyan McDuffie
+    - Vincent Orange
+    - Elissa Silverman
+
+  - name: Committee on Health and Human Services
+    rule: 235
+    chair: Yvette Alexander
+    members: 
+    - Mary Cheh 
+    - David Grosso
+    - Brianne Nadeau
+
+  - name: Committee on Housing and Community Development
+    rule: 236
+    chair: Anita Bonds 
+    members:
+    - Brianne Nadeau
+    - Vincent Orange
+    - Elissa Silverman
+
+  - name: Committee on the Judiciary
+    rule: 237
+    chair: Kenyan McDuffie
+    members:
+    - Anita Bonds
+    - Mary Cheh
+    - Jack Evans
+
+  - name: Committee on Transportation and the Environment
+    rule: 238
+    chair: Mary Cheh
+    members: 
+    - Charles Allen
+    - Jack Evans
+    - Kenyan McDuffie
